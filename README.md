@@ -42,6 +42,7 @@
 - [Klima DAO](https://www.klimadao.finance/) - Carbon-backed, algorithmic digital currency.
 - [Moss.Earth](https://moss.earth/) - Climate tech company, simplifies the offsetting process and guarantees the traceability and transparency of their actions by using blockchain technology.
 - [Nori](https://nori.com/) - Transparent, verifiable, and high-quality carbon removal marketplace.
+- [Open Forest Protocol](https://www.openforestprotocol.org/) - Trusted open-source protocol, based on a public blockchain platform for communal verification and reporting of forest data.
 - [Regen Network](https://www.regen.network/) - On-chain registry and marketplace for carbon credits.
 - [Single.Earth](https://www.single.earth/) - Marketplace that protects nature by making carbon removal and biodiversity tradable.
 - [Toucan](https://toucan.earth/) - Tokenization platform for carbon credits.
