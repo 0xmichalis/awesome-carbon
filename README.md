@@ -29,7 +29,6 @@
 
 - [Projects](#projects)
 - [Podcasts](#podcasts)
-- [Articles](#articles)
 - [Tools](#tools)
 - [Libraries](#libraries)
 
@@ -38,24 +37,26 @@
 
 - [Blockchain For Climate Foundation](https://www.blockchainforclimate.org/) - Putting the Paris Agreement on the Blockchain.
 - [CryptoClimateAccord](https://cryptoclimate.org/) - Private sector-led initiative for the entire crypto community focused on decarbonizing the cryptocurrency and blockchain industry.
+- [C3](https://www.c3.app/) - Tokenization platform for carbon credits.
+- [dClimate](https://www.dclimate.net/) - Decentralized network for climate data.
 - [Energy Web](https://www.energyweb.org/) - Deploy digital operating systems for energy grids with a global community of more than 100 energy market participants.
+- [FlowCarbon](https://www.flowcarbon.com) - Tokenization platform for carbon credits.
 - [Klima DAO](https://www.klimadao.finance/) - Carbon-backed, algorithmic digital currency.
 - [Moss.Earth](https://moss.earth/) - Climate tech company, simplifies the offsetting process and guarantees the traceability and transparency of their actions by using blockchain technology.
 - [Nori](https://nori.com/) - Transparent, verifiable, and high-quality carbon removal marketplace.
 - [Open Forest Protocol](https://www.openforestprotocol.org/) - Trusted open-source protocol, based on a public blockchain platform for communal verification and reporting of forest data.
+- [ReFi DAO](https://refidao.com/) - Bringing together all the ReFi ecosystem.
 - [Regen Network](https://www.regen.network/) - On-chain registry and marketplace for carbon credits.
 - [Single.Earth](https://www.single.earth/) - Marketplace that protects nature by making carbon removal and biodiversity tradable.
+- [Solid World](https://www.solid.world/) - World's first blockchain infrastructure for pre-purchased carbon credits designed with institutions in mind.
 - [Toucan](https://toucan.earth/) - Tokenization platform for carbon credits.
 - [UPCO2](https://universalcarbon.com/) - Carbon token backed by REDD+ carbon credits.
+
 
 #### Podcasts
 
 - [Planet of the Klimates](https://klima.fyi/podcast) - The official podcast for KlimaDAO.
-
-
-#### Articles
-
-- [Verra's statement on crypto](https://verra.org/statement-on-crypto/) - Verra Statement on Crypto Market Activities.
+- [ReFi DAO](https://www.youtube.com/channel/UC779ZMumuKc6-VMkku1tmyQ) - The official podcast for ReFi DAO.
 
 
 #### Tools
@@ -68,4 +69,3 @@
 #### Libraries
 
 - [Ethereum emissions calculator](https://github.com/Offsetra/ethereum-emissions-calculator) by Offsetra - Javascript library to calculate carbon emissions of an Ethereum account.
-
