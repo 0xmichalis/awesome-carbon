@@ -47,10 +47,10 @@
 - [Open Forest Protocol](https://www.openforestprotocol.org/) - Trusted open-source protocol, based on a public blockchain platform for communal verification and reporting of forest data.
 - [ReFi DAO](https://refidao.com/) - Bringing together all the ReFi ecosystem.
 - [Regen Network](https://www.regen.network/) - On-chain registry and marketplace for carbon credits.
+- [Return Protocol](https://www.return.green/) - Climate positive yield with crypto.
 - [Single.Earth](https://www.single.earth/) - Marketplace that protects nature by making carbon removal and biodiversity tradable.
 - [Solid World](https://www.solid.world/) - World's first blockchain infrastructure for pre-purchased carbon credits designed with institutions in mind.
 - [Toucan](https://toucan.earth/) - Tokenization platform for carbon credits.
-- [UPCO2](https://universalcarbon.com/) - Carbon token backed by REDD+ carbon credits.
 
 
 #### Podcasts
