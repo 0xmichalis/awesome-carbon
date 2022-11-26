@@ -19,7 +19,7 @@
     </a>
   </p>
 
-  <p align="center">A curated list of awesome <a href="https://www.popsci.com/environment/what-are-carbon-markets/">carbon</a> crypto-related resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome <a href="https://www.popsci.com/environment/what-are-carbon-markets/">carbon</a> projects in the web3 space, podcasts, and other various resources.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 </div>
@@ -29,8 +29,7 @@
 
 - [Projects](#projects)
 - [Podcasts](#podcasts)
-- [Tools](#tools)
-- [Libraries](#libraries)
+- [Resources](#resources)
 
 
 #### Projects
@@ -39,10 +38,11 @@
 - [CryptoClimateAccord](https://cryptoclimate.org/) - Private sector-led initiative for the entire crypto community focused on decarbonizing the cryptocurrency and blockchain industry.
 - [C3](https://www.c3.app/) - Tokenization platform for carbon credits.
 - [dClimate](https://www.dclimate.net/) - Decentralized network for climate data.
-- [Energy Web](https://www.energyweb.org/) - Deploy digital operating systems for energy grids with a global community of more than 100 energy market participants.
+- [Dottyland](https://dottyland.xyz/) - Making individual climate-positive behaviour beneficial.
 - [FlowCarbon](https://www.flowcarbon.com) - Tokenization platform for carbon credits.
 - [Klima DAO](https://www.klimadao.finance/) - Carbon-backed, algorithmic digital currency.
 - [Moss.Earth](https://moss.earth/) - Climate tech company, simplifies the offsetting process and guarantees the traceability and transparency of their actions by using blockchain technology.
+- [Neutral Protocol](https://www.neutralprotocol.co/) - Trade perpetuals and execute slippage free swaps on the Neutral platform.
 - [Nori](https://nori.com/) - Transparent, verifiable, and high-quality carbon removal marketplace.
 - [Open Forest Protocol](https://www.openforestprotocol.org/) - Trusted open-source protocol, based on a public blockchain platform for communal verification and reporting of forest data.
 - [ReFi DAO](https://refidao.com/) - Bringing together all the ReFi ecosystem.
@@ -50,22 +50,22 @@
 - [Return Protocol](https://www.return.green/) - Climate positive yield with crypto.
 - [Single.Earth](https://www.single.earth/) - Marketplace that protects nature by making carbon removal and biodiversity tradable.
 - [Solid World](https://www.solid.world/) - World's first blockchain infrastructure for pre-purchased carbon credits designed with institutions in mind.
-- [Toucan](https://toucan.earth/) - Tokenization platform for carbon credits.
+- [Spirals](https://www.spirals.so/) - Spirals unlocks the potential of your cryptocurrency to save the world — all while you continue to use your favorite dApps.
+- [Thallo](https://www.thallo.io/) - Tomorrow's carbon market, powered by blockchain.
+- [Toucan Protocol](https://toucan.earth/) - Toucan’s infrastructure brings programmable carbon to Web3, unlocking its potential for a regenerative economy.
 
 
 #### Podcasts
 
-- [Planet of the Klimates](https://klima.fyi/podcast) - The official podcast for KlimaDAO.
 - [ReFi DAO](https://www.youtube.com/channel/UC779ZMumuKc6-VMkku1tmyQ) - The official podcast for ReFi DAO.
+- [This Week in Refi](https://www.youtube.com/@slaptainshwirv) - YouTube podcast by Slaptain Shwirv and Rez
+- [Geotree YouTube channel](https://www.youtube.com/@geotree5971) - Market updates by [Geotree](https://www.geotree.com/)
 
 
-#### Tools
+#### Resources
 
+- [Carbon Rosetta Stone](https://toucan-protocol.notion.site/Carbon-Rosetta-Stone-Standard-Attributes-DB-bb0bb434bf6c4661b45155a84d192e22) - A unified view of all carbon attributes from existing ReFi projects, standards working groups, and partial cross-references to existing carbon registries such as Verra.
 - [carbon.fyi](https://carbon.fyi/) - Calculate carbon emissions of an Ethereum account.
+- [Ethereum emissions calculator](https://github.com/Offsetra/ethereum-emissions-calculator) by Offsetra - Javascript library to calculate carbon emissions of an Ethereum account.
 - [Ethereum emissions tracker](https://kylemcdonald.github.io/ethereum-emissions/) by Kyle McDonald
 - [Ethereum NFT activity](https://github.com/kylemcdonald/ethereum-nft-activity)
-
-
-#### Libraries
-
-- [Ethereum emissions calculator](https://github.com/Offsetra/ethereum-emissions-calculator) by Offsetra - Javascript library to calculate carbon emissions of an Ethereum account.
