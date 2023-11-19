@@ -50,7 +50,6 @@
 - [Return Protocol](https://www.return.green/) - Climate positive yield with crypto.
 - [Single.Earth](https://www.single.earth/) - Marketplace that protects nature by making carbon removal and biodiversity tradable.
 - [Solid World](https://www.solid.world/) - World's first blockchain infrastructure for pre-purchased carbon credits designed with institutions in mind.
-- [Spirals](https://www.spirals.so/) - Spirals unlocks the potential of your cryptocurrency to save the world — all while you continue to use your favorite dApps.
 - [Thallo](https://www.thallo.io/) - Tomorrow's carbon market, powered by blockchain.
 - [Toucan Protocol](https://toucan.earth/) - Toucan’s infrastructure brings programmable carbon to Web3, unlocking its potential for a regenerative economy.
 
